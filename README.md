@@ -1,7 +1,6 @@
-- <h2>Hi 👋, I’m Ahsan .</h2>
+<h1>Hi 👋, I’m Ahsan .</h1>
 <br>
-- <h3> C++ </h3>
-- <h3>📫 Reach Me Through My Email</h3>
+<p>📫 Reach Me Through My Email</p>
 
 <!---
 ahsanali2009/ahsanali2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
