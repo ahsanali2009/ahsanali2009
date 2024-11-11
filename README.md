@@ -1,1 +1,1 @@
-![](assets/header.png)
+![Alt text](header.png "a title")
